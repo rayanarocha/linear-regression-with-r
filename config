@@ -1,4 +1,0 @@
-## Configuração do Github no RStudio local ou cloud
-
-#instalar pacote usethis
-install.package('usethis')
