@@ -16,5 +16,5 @@ usethis::create_github_token()
 # escreve o token do github
 usethis::browse_github_token()
 
-#usar github
+#usar github no rstudio
 usethis::use_git()
